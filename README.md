@@ -18,6 +18,14 @@
 ## Translations
 :memo: Available Translations: 🇬🇷 [Greek](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇫🇷 [French](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇰🇷 [Korean](https://github.com/Jfaler/Philosophy/blob/master/doc/KO_README.md) | 🇨🇳 [Simplified Chinese](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇧🇷 [Brazilian Portuguese](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇹🇼 [Traditional Chinese](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇲🇽 [Spanish](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇹🇷 [Turkish](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇩🇪 [German](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇮🇹 [Italian](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇮🇳 [Hindi](https://github.com/Jfaler/Philosophy/blob/master/doc/) | [Arabic](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇵🇹 [Portugese](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇷🇺 [Russian](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇯🇵 [Japanese](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇻🇳 [Vietnamese](https://github.com/Jfaler/Philosophy/blob/master/doc/)
 
+#### ⤏ Albert Camus
+>##### ↳ The Stranger
+>##### ↳ The Plague
+>##### ↳ The Myth of Sisyphus
+>##### ↳ The Fall
+>##### ↳ The Rebel 
+>##### ↳ The First Man
+
 #### ⤏ Aristotle
 >##### ↳ The Nicomachean Ethics
 >##### ↳ Poetics
@@ -25,19 +33,6 @@
 >##### ↳ Metaphysics
 >##### ↳ Physics
 >##### ↳ The Art of Rhetoric
-
-#### ⤏ Karl Marx
->##### ↳ The Communist Manifesto
-
-#### ⤏ Martin Heidegger
->##### ↳ Being and Time
->##### ↳ Poetry, Language, Thought
->##### ↳ The Fundamental Concepts of Metaphysics: World, Finitude, Solitude
->##### ↳ Basic Writings: Ten Key Essays, plus the Introduction to Being and Time
->##### ↳ What is Called Thinking?
-
-#### ⤏ René Descartes
->##### ↳ Discourse on Method and Meditations on First Philosophy
 
 #### ⤏ Friedrich Nietzsche
 >##### ↳ The Will to Power
@@ -49,6 +44,38 @@
 >##### ↳ Thus Spoke Zarathustra
 >##### ↳ Beyond Good and Evil
 
+#### ⤏ Immanuel Kant
+>##### ↳ The Critique of Pure Reason
+>##### ↳ The Critique of Pratical Reason
+>##### ↳ The Critique of Judgement
+>##### ↳ Groundwork of the Metaphysics of Morals
+
+#### ⤏ Jacques Lacan
+>##### ↳ Écrits
+
+#### ⤏ Jean-Jacques Rousseau 
+>##### ↳ The Social Contract
+
+#### ⤏ Jean-Paul Sartre
+>##### ↳ Being and Nothingness
+>##### ↳ Existentialism Is a Humanism
+>##### ↳ Nausea
+>##### ↳ The Wall
+
+#### ⤏ Karl Marx
+>##### ↳ The Communist Manifesto
+>##### ↳ Das Kapital
+
+#### ⤏ Martin Heidegger
+>##### ↳ Being and Time
+>##### ↳ Poetry, Language, Thought
+>##### ↳ The Fundamental Concepts of Metaphysics: World, Finitude, Solitude
+>##### ↳ Basic Writings: Ten Key Essays, plus the Introduction to Being and Time
+>##### ↳ What is Called Thinking?
+
+#### ⤏ René Descartes
+>##### ↳ Discourse on Method and Meditations on First Philosophy
+
 #### ⤏ Georg Wilhelm Friedrich Hegel
 >##### ↳ The Phenomenology of Spirit
 
@@ -59,22 +86,35 @@
 >##### ↳ Welcome to the Desert of the Real
 >##### ↳ The Art of the Ridiculous Sublime: On David Lynch's Lost Highway
 
-#### ⤏ Jacques Lacan
->##### ↳ Écrits
-
-#### ⤏ Immanuel Kant
->##### ↳ The Critique of Pure Reason
->##### ↳ The Critique of Pratical Reason
->##### ↳ The Critique of Judgement
-
-#### ⤏ Jean-Paul Sartre
->##### ↳ Being and Nothingness
->##### ↳ Existentialism Is a Humanism
->##### ↳ Nausea
->##### ↳ The Wall
-
-#### ⤏ Jean-Jacques Rousseau 
->##### ↳ The Social Contract
 
 #### ⤏ Plato
 >##### ↳ Republic
+>##### ↳ The Death and Trial of Socrates
+>##### ↳ The Allegory of the Cave
+>##### ↳ Symposium
+>##### ↳ Crito
+>##### ↳ Euthyphro
+>##### ↳ Apology 
+
+#### ⤏ Søren Kierkegaard
+>##### ↳ The Sickness Unto Death: A Christian Psychological Exposition for Upbuilding and Awakening
+>##### ↳ Either/Or
+>##### ↳ Fear and Trembling 
+>##### ↳ The Concept of Anxiety
+
+#### ⤏ Ludwig Wittgenstein
+>##### ↳ Tractatus Logico-Philosophicus
+>##### ↳ On Certainty
+
+#### ⤏ Hans-Georg Gadamer
+>##### ↳ Truth and Method
+
+#### ⤏ Thomas Hobbes
+>##### ↳ Leviathan
+
+#### ⤏ Michel Foucault
+>##### ↳ The Order of Things: An Archaeology of the Human Sciences
+>##### ↳ The History of Sexuality, Volume 1: An Introduction
+
+#### ⤏ Gottfried Wilhelm Leibniz
+>##### ↳ Monadology and Other Philosophical Essays
