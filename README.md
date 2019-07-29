@@ -7,7 +7,7 @@
 ## Table of Contents
 
 - [Epistemology](#epistemology)
-- [metaphysics](#metaphysics)
+- [Metaphysics](#metaphysics)
 - [Ethics](#ethics)
 - [Aesthetics](#aesthetics)
 - [Politics](#politics)
