@@ -47,7 +47,7 @@
 >>##### ↳ Beyond Good and Evil
 
 #### ⤏ Henry David Thoreau
->>##### ↳ Walden
+>>##### ↳ Walden, or Life in the Woods
 >>##### ↳ Civil Disobedience
 >>##### ↳ Walking
 >>##### ↳ The Maine Woods
