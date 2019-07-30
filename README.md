@@ -55,15 +55,35 @@
 
 #### ⤏ Jacques Lacan
 >##### ↳ Écrits
+>##### ↳ Anxiety
+
 
 #### ⤏ Jean-Jacques Rousseau 
 >##### ↳ The Social Contract
 
 #### ⤏ Jean-Paul Sartre
 >##### ↳ Being and Nothingness
+>##### ↳ Black Orpheus
 >##### ↳ Existentialism Is a Humanism
+>##### ↳ Between Existentialism and Marxism
+>##### ↳ Existentialism and Human Emotions
 >##### ↳ Nausea
 >##### ↳ The Wall
+>##### ↳ The Words
+>##### ↳ The Age of Reason
+>##### ↳ What is Literature?
+>##### ↳ Critique of Dialectical Reason 
+>##### ↳ The Imaginary 
+>##### ↳ Sketch for a Theory of the Emotions
+>##### ↳ Troubled Sleep
+>##### ↳ The Transcendence of the Ego
+>##### ↳ Anti-Semite and Jew
+>##### ↳ The Reprieve 
+>##### ↳ The Problem of Method
+>##### ↳ The Family Idiot
+>##### ↳ Saint Genet
+>##### ↳ Existential Psychoanalysis
+
 
 #### ⤏ Karl Marx
 >##### ↳ The Communist Manifesto
@@ -78,6 +98,11 @@
 
 #### ⤏ René Descartes
 >##### ↳ Discourse on Method and Meditations on First Philosophy
+>##### ↳ La Géométrie
+>##### ↳ Pasions of the Soul
+>##### ↳ The World
+>##### ↳ Principles of Philosophy
+
 
 #### ⤏ Georg Wilhelm Friedrich Hegel
 >##### ↳ The Phenomenology of Spirit
@@ -140,6 +165,7 @@
 >##### ↳ Religion and Culture
 >##### ↳ Security, Territory, Population
 >##### ↳ The Birth Of the Clinic
+>##### ↳ Will to Knowledge
 
 #### ⤏ Gottfried Wilhelm Leibniz
 >##### ↳ Monadology and Other Philosophical Essays
