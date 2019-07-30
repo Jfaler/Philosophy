@@ -18,6 +18,9 @@
 ## Translations
 :memo: Available Translations: 🇬🇷 [Greek](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇫🇷 [French](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇰🇷 [Korean](https://github.com/Jfaler/Philosophy/blob/master/doc/KO_README.md) | 🇨🇳 [Simplified Chinese](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇹🇼 [Traditional Chinese](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇲🇽 [Spanish](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇹🇷 [Turkish](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇩🇪 [German](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇮🇹 [Italian](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇮🇳 [Hindi](https://github.com/Jfaler/Philosophy/blob/master/doc/) | [Arabic](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇵🇹 [Portugese](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇷🇺 [Russian](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇯🇵 [Japanese](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇻🇳 [Vietnamese](https://github.com/Jfaler/Philosophy/blob/master/doc/)
 
+
+## Philosophers & Books
+
 #### ⤏ Albert Camus
 >##### ↳ The Stranger
 >##### ↳ The Plague
@@ -86,7 +89,6 @@
 >##### ↳ Welcome to the Desert of the Real
 >##### ↳ The Art of the Ridiculous Sublime: On David Lynch's Lost Highway
 
-
 #### ⤏ Plato
 >##### ↳ Republic
 >##### ↳ The Death and Trial of Socrates
@@ -101,6 +103,12 @@
 >##### ↳ Either/Or
 >##### ↳ Fear and Trembling 
 >##### ↳ The Concept of Anxiety
+>##### ↳ Works of Love
+>##### ↳ Diary of a Seducer
+>##### ↳ Repetition
+>##### ↳ Judge for Yourselves!
+>##### ↳ Edifying Discourses in Diverse Spirits
+>##### ↳ For Self-Examination
 
 #### ⤏ Ludwig Wittgenstein
 >##### ↳ Tractatus Logico-Philosophicus
@@ -108,13 +116,30 @@
 
 #### ⤏ Hans-Georg Gadamer
 >##### ↳ Truth and Method
+>##### ↳ La Philosophie herméneutique
+>##### ↳ The beginning of philosophy
+>##### ↳ The Enigma of Health
+>##### ↳ The relevance of the beautiful and other essays
+>##### ↳ Praise of Theory
 
 #### ⤏ Thomas Hobbes
 >##### ↳ Leviathan
 
 #### ⤏ Michel Foucault
+>##### ↳ Abnormal
+>##### ↳ Aesthetics, Method, and Epistemology
+>##### ↳ Archaeology Of Knowledge
 >##### ↳ The Order of Things: An Archaeology of the Human Sciences
 >##### ↳ The History of Sexuality, Volume 1: An Introduction
+>##### ↳ Discipline and Punish
+>##### ↳ The History of Sexuality 
+>##### ↳ Madness and Cvilization
+>##### ↳ The Order of Things 
+>##### ↳ The Archaeology
+>##### ↳ Power
+>##### ↳ Religion and Culture
+>##### ↳ Security, Territory, Population
+>##### ↳ The Birth Of the Clinic
 
 #### ⤏ Gottfried Wilhelm Leibniz
 >##### ↳ Monadology and Other Philosophical Essays
