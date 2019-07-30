@@ -15,7 +15,7 @@
 
 
 ## Translations
-:memo: Available Translations: 🇬🇷 [ελληνικά](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇫🇷 [Français](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇰🇷 [한국어](https://github.com/Jfaler/Philosophy/blob/master/doc/KO_README.md) | 🇨🇳 [Simplified Chinese](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇹🇼 [Traditional Chinese](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇲🇽 [Español](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇹🇷 [Türkçe](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇩🇪 [Deutsch](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇮🇹 [Italiano](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇮🇳 [Hindi](https://github.com/Jfaler/Philosophy/blob/master/doc/) | [Arabic](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇵🇹 [Português](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇷🇺 [Русский язык](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇯🇵 [日本語](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇻🇳 [tiếng việt](https://github.com/Jfaler/Philosophy/blob/master/doc/)
+:memo: Available Translations: 🇬🇷 [ελληνικά](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇫🇷 [Français](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇰🇷 [한국어](https://github.com/Jfaler/Philosophy/blob/master/doc/KO_README.md) | 🇨🇳 [Simplified Chinese](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇹🇼 [Traditional Chinese](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇲🇽 [Español](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇹🇷 [Türkçe](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇩🇪 [Deutsch](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇮🇹 [Italiano](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇮🇳 [हिन्दी](https://github.com/Jfaler/Philosophy/blob/master/doc/) | [Arabic](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇵🇹 [Português](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇷🇺 [Русский язык](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇯🇵 [日本語](https://github.com/Jfaler/Philosophy/blob/master/doc/) | 🇻🇳 [tiếng việt](https://github.com/Jfaler/Philosophy/blob/master/doc/)
 
 
 ## Philosophers & Books
@@ -53,9 +53,30 @@
 >>##### ↳ Groundwork of the Metaphysics of Morals
 
 #### ⤏ Jacques Lacan
->>##### ↳ Écrits
->>##### ↳ Anxiety
-
+>>##### ↳ I: The technical writings of Freud
+>>##### ↳ II: The ego in Freud's theory and in the technique of psychoanalysis
+>>##### ↳ III: Psychoses
+>>##### ↳ IV: The object relation and the Freudian structures
+>>##### ↳ V: The formations of the unconscious
+>>##### ↳ VI: Desire and its interpretation 
+>>##### ↳ VII: The ethics of psychoanalysis
+>>##### ↳ VIII: The transfer
+>>##### ↳ IX: Identification
+>>##### ↳ X: Anxiety
+>>##### ↳ XI: The four fundamental concepts of psychoanalysis
+>>##### ↳ XII: Critical Issues for Psychoanalysis
+>>##### ↳ XIII: The object of psychoanalysis
+>>##### ↳ XIV: The logic of fantasy
+>>##### ↳ XV: The psychoanalytic act
+>>##### ↳ XVI: From one to another
+>>##### ↳ XVII: The reverse side of psychoanalysis
+>>##### ↳ XVIII: Of a speech that would not be pretense
+>>##### ↳ XIX: . . . or worse
+>>##### ↳ XXI: The non-dupes are wandering
+>>##### ↳ XXII RSI
+>>##### ↳ XXIII The Sinthome
+>>##### ↳ XXIV: Unbeknownst to one-goofing goes to dying
+>>##### ↳ The moment to conclude
 
 #### ⤏ Jean-Jacques Rousseau 
 >>##### ↳ The Social Contract
@@ -83,7 +104,6 @@
 >>##### ↳ Saint Genet
 >>##### ↳ Existential Psychoanalysis
 
-
 #### ⤏ Karl Marx
 >>##### ↳ The Communist Manifesto
 >>##### ↳ Das Kapital
@@ -108,6 +128,15 @@
 >>##### ↳ Science of Logic
 >>##### ↳ Elements of the Philosophy of Right
 >>##### ↳ Lectures on the Philosophy of History
+
+#### ⤏ Plato
+>>##### ↳ Republic
+>>##### ↳ The Death and Trial of Socrates
+>>##### ↳ The Allegory of the Cave
+>>##### ↳ Symposium
+>>##### ↳ Crito
+>>##### ↳ Euthyphro
+>>##### ↳ Apology 
 
 #### ⤏ Slavoj Žižek
 >>##### ↳ Less Than Nothing
@@ -138,15 +167,6 @@
 >>##### ↳ Iraq: The Borrowed Kettle
 >>##### ↳ Interrogating the Real
 
-#### ⤏ Plato
->>##### ↳ Republic
->>##### ↳ The Death and Trial of Socrates
->>##### ↳ The Allegory of the Cave
->>##### ↳ Symposium
->>##### ↳ Crito
->>##### ↳ Euthyphro
->>##### ↳ Apology 
-
 #### ⤏ Søren Kierkegaard
 >>##### ↳ The Sickness Unto Death: A Christian Psychological Exposition for Upbuilding and Awakening
 >>##### ↳ Either/Or
@@ -162,6 +182,11 @@
 #### ⤏ Ludwig Wittgenstein
 >>##### ↳ Tractatus Logico-Philosophicus
 >>##### ↳ On Certainty
+>>##### ↳ Culture and Value
+>>##### ↳ Philosophical Investigations
+>>##### ↳ Remarks on the Foundations of Mathematics
+>>##### ↳ Remarks on Colour
+>>##### ↳ The Blue and Brown Books
 
 #### ⤏ Hans-Georg Gadamer
 >>##### ↳ Truth and Method
