@@ -1,8 +1,9 @@
 <h1 align="center" style="font-family:Operator Mono"> Philosophy </h1> <br>
 <p align="center">
-  <a href="https://bitlits.com">
-  </a>
+(from Greek φιλοσοφία, philosophia, literally "love of wisdom")
 </p>
+
+
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Jfaler/Philosophy/blob/master/LICENSE.txt)
 
