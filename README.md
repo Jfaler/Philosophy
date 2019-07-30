@@ -3,8 +3,6 @@
 (from Greek φιλοσοφία, philosophia, literally "love of wisdom")
 </p>
 
-
-
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Jfaler/Philosophy/blob/master/LICENSE.txt)
 
 ## Table of Contents
@@ -107,6 +105,9 @@
 
 #### ⤏ Georg Wilhelm Friedrich Hegel
 >##### ↳ The Phenomenology of Spirit
+>##### ↳ Science of Logic
+>##### ↳ Elements of the Philosophy of Right
+>##### ↳ Lectures on the Philosophy of History
 
 #### ⤏ Slavoj Žižek
 >##### ↳ Less Than Nothing
@@ -114,6 +115,28 @@
 >##### ↳ The Parallax View
 >##### ↳ Welcome to the Desert of the Real
 >##### ↳ The Art of the Ridiculous Sublime: On David Lynch's Lost Highway
+>##### ↳ Violence: Big Ideas/Small Books
+>##### ↳ The Sublime Object of Ideology
+>##### ↳ Living in the End Times
+>##### ↳ The Plague of Fantasies
+>##### ↳ How to read Lacan
+>##### ↳ First As Tragedy, Then As Farce
+>##### ↳ Absolute Recoil: Towards a New Foundation of Dialectical Materialism
+>##### ↳ In Defense of Lost Causes
+>##### ↳ The Ticklish Subject: The Absent Centre of Political Ontology
+>##### ↳ Looking Awry
+>##### ↳ The Courage of Hopelessness: Chronicles of a Year of Acting Dangerously
+>##### ↳ Like a Thief in Broad Daylight: Power in the Era of Post-Human Capitalism
+>##### ↳ The Fragile Absolute: Or, Why Is the Christian Legacy Worth Fighting For?
+>##### ↳ Did Somebody Say Totalitarianism?
+>##### ↳ Against the Double Blackmail: Refugees, Terror and Other Troubles with the Neighbours
+>##### ↳ Trouble in Paradise: From the End of History to the End of Capitalism
+>##### ↳ The Puppet and the Dwarf: The Perverse Core of Christianity
+>##### ↳ Tarrying With the Negative
+>##### ↳ The Metastases of Enjoyment
+>##### ↳ Incontinence of the Void: Economico-Philosophical Spandrels
+>##### ↳ Iraq: The Borrowed Kettle
+>##### ↳ Interrogating the Real
 
 #### ⤏ Plato
 >##### ↳ Republic
