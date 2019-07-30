@@ -46,6 +46,18 @@
 >>##### ↳ Thus Spoke Zarathustra
 >>##### ↳ Beyond Good and Evil
 
+#### ⤏ Henry David Thoreau
+>>##### ↳ Walden, or Life in the Woods
+>>##### ↳ Civil Disobedience
+>>##### ↳ Walking
+>>##### ↳ The Maine Woods
+>>##### ↳ Cape Cod
+>>##### ↳ A Week on the Concord and Merrimack Rivers
+>>##### ↳ Life Without Principle
+>>##### ↳ Wild Apples
+>>##### ↳ Slavery in Massachusetts
+>>##### ↳ October, or Autumnal Tints
+
 #### ⤏ Immanuel Kant
 >>##### ↳ The Critique of Pure Reason
 >>##### ↳ The Critique of Pratical Reason
