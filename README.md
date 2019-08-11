@@ -25,7 +25,7 @@
 >>##### ↳ The Plague
 >>##### ↳ The Myth of Sisyphus
 >>##### ↳ The Fall
->>##### ↳ The Rebel 
+>>##### ↳ The Rebel
 >>##### ↳ The First Man
 
 #### ⤏ Aristotle
@@ -35,6 +35,16 @@
 >>##### ↳ Metaphysics
 >>##### ↳ Physics
 >>##### ↳ The Art of Rhetoric
+
+#### ⤏ Augustine
+>>##### ↳ Confessions
+>>##### ↳ City of God
+
+#### ⤏ Edmund Husserl
+>>##### ↳ Ideas
+>>##### ↳ Logical Investigations
+>>##### ↳ Cartesian Meditations
+>>##### ↳ The Crisis of European Sciences and Transcendental Philosophy
 
 #### ⤏ Friedrich Nietzsche
 >>##### ↳ The Will to Power
@@ -70,7 +80,7 @@
 >>##### ↳ III: Psychoses
 >>##### ↳ IV: The object relation and the Freudian structures
 >>##### ↳ V: The formations of the unconscious
->>##### ↳ VI: Desire and its interpretation 
+>>##### ↳ VI: Desire and its interpretation
 >>##### ↳ VII: The ethics of psychoanalysis
 >>##### ↳ VIII: The transfer
 >>##### ↳ IX: Identification
@@ -90,7 +100,7 @@
 >>##### ↳ XXIV: Unbeknownst to one-goofing goes to dying
 >>##### ↳ The moment to conclude
 
-#### ⤏ Jean-Jacques Rousseau 
+#### ⤏ Jean-Jacques Rousseau
 >>##### ↳ The Social Contract
 
 #### ⤏ Jean-Paul Sartre
@@ -104,17 +114,22 @@
 >>##### ↳ The Words
 >>##### ↳ The Age of Reason
 >>##### ↳ What is Literature?
->>##### ↳ Critique of Dialectical Reason 
->>##### ↳ The Imaginary 
+>>##### ↳ Critique of Dialectical Reason
+>>##### ↳ The Imaginary
 >>##### ↳ Sketch for a Theory of the Emotions
 >>##### ↳ Troubled Sleep
 >>##### ↳ The Transcendence of the Ego
 >>##### ↳ Anti-Semite and Jew
->>##### ↳ The Reprieve 
+>>##### ↳ The Reprieve
 >>##### ↳ The Problem of Method
 >>##### ↳ The Family Idiot
 >>##### ↳ Saint Genet
 >>##### ↳ Existential Psychoanalysis
+
+#### ⤏ John Locke
+>>##### ↳ An Essay Concerning Human Understanding
+>>##### ↳ The Second Treatise of Government
+>>##### ↳ A Letter Concerning Toleration
 
 #### ⤏ Karl Marx
 >>##### ↳ The Communist Manifesto
@@ -134,7 +149,6 @@
 >>##### ↳ The World
 >>##### ↳ Principles of Philosophy
 
-
 #### ⤏ Georg Wilhelm Friedrich Hegel
 >>##### ↳ The Phenomenology of Spirit
 >>##### ↳ Science of Logic
@@ -148,7 +162,7 @@
 >>##### ↳ Symposium
 >>##### ↳ Crito
 >>##### ↳ Euthyphro
->>##### ↳ Apology 
+>>##### ↳ Apology
 
 #### ⤏ Slavoj Žižek
 >>##### ↳ Less Than Nothing
@@ -182,7 +196,7 @@
 #### ⤏ Søren Kierkegaard
 >>##### ↳ The Sickness Unto Death: A Christian Psychological Exposition for Upbuilding and Awakening
 >>##### ↳ Either/Or
->>##### ↳ Fear and Trembling 
+>>##### ↳ Fear and Trembling
 >>##### ↳ The Concept of Anxiety
 >>##### ↳ Works of Love
 >>##### ↳ Diary of a Seducer
@@ -208,8 +222,13 @@
 >>##### ↳ The relevance of the beautiful and other essays
 >>##### ↳ Praise of Theory
 
+#### ⤏ Thomas Aquinas
+>>##### ↳ Summa Theologica
+
 #### ⤏ Thomas Hobbes
 >>##### ↳ Leviathan
+>>##### ↳ Elements of Law
+>>##### ↳ Natural and Politic
 
 #### ⤏ Michel Foucault
 >>##### ↳ Abnormal
@@ -218,9 +237,9 @@
 >>##### ↳ The Order of Things: An Archaeology of the Human Sciences
 >>##### ↳ The History of Sexuality, Volume 1: An Introduction
 >>##### ↳ Discipline and Punish
->>##### ↳ The History of Sexuality 
+>>##### ↳ The History of Sexuality
 >>##### ↳ Madness and Cvilization
->>##### ↳ The Order of Things 
+>>##### ↳ The Order of Things
 >>##### ↳ The Archaeology
 >>##### ↳ Power
 >>##### ↳ Religion and Culture
