@@ -167,6 +167,13 @@
 >>##### ↳ Euthyphro
 >>##### ↳ Apology
 
+#### ⤏ Seneca
+>>##### ↳ Letters from a Stoic
+>>##### ↳ On the Shortness of Life
+>>##### ↳ On the Happy Life
+>>##### ↳ Of Anger
+>>##### ↳ On tranquility of mind
+
 #### ⤏ Slavoj Žižek
 >>##### ↳ Less Than Nothing
 >>##### ↳ Enjoy Your Symptom!: Jacques Lacan in Hollywood and Out
