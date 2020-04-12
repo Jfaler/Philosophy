@@ -20,6 +20,7 @@
 ## Resources 
 - [philpapers](https://philpapers.org)
 - [plato.stanford.edu](https://plato.stanford.edu/)
+- [iep.utm.edu](https://www.iep.utm.edu)
 
 ## Philosophers & Books
 
