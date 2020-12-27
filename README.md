@@ -44,6 +44,13 @@
 >>##### ↳ Confessions
 >>##### ↳ City of God
 
+#### ⤏ Bernard Stiegler
+>>##### ↳ The Neganthropocene
+>>##### ↳ The Age of Disruption
+
+#### ⤏ David Hume
+>>##### ↳ An Enquiry Concerning the Principles of Morals
+
 #### ⤏ Edmund Husserl
 >>##### ↳ Ideas
 >>##### ↳ Logical Investigations
