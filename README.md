@@ -260,10 +260,3 @@
 
 #### ⤏ Gottfried Wilhelm Leibniz
 >>##### ↳ Monadology and Other Philosophical Essays
-
-## Contributors
-
-### Philosophy Contributors
-
-This project exists thanks to all the people who contribute.
-<a href="https://github.com/Jfaler/Philosophize/graphs/contributors"><img src="https://opencollective.com/Philosophize/contributors.svg?width=890&button=false" /></a>
